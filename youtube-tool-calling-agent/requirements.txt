@@ -1,0 +1,13 @@
+# Everything (runtime + YouTube + Gemini + OpenAI + dev tools). Or: pip install -e ".[all]"
+langchain>=1.0
+langchain-core>=1.0
+python-dotenv>=1.0
+yt-dlp>=2025.1
+youtube-transcript-api>=1.1
+langchain-google-genai>=3.0
+langchain-openai>=1.0
+pytest>=8
+pytest-cov>=5
+nbclient>=0.10
+nbformat>=5.10
+ipykernel>=6
